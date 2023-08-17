@@ -13,7 +13,8 @@ Root finding is a common problem in mathematics and computational science. This 
 Explore a variety of root finding algorithms implemented here:
 
 
-- **Bisection Method:A numerical root-finding algorithm that repeatedly narrows down an interval by halving it, identifying a root when the function changes sign within the interval. While simple and reliable, it's generally slower compared to more advanced methods.
+- **Bisection Method:A numerical root-finding algorithm that repeatedly narrows down an interval by halving it, identifying a root when the function changes sign within the interval. While simple and reliable, it's generally slower compared to more advanced methods.(To utilize a different function, modify the mathematical function within the `bisection` function.)
+  
 
 
 ## Usage

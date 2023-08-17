@@ -14,6 +14,7 @@ Explore a variety of root finding algorithms implemented here:
 
 
 - **Bisection Method:** An interval-based approach for isolating roots within given bounds.
+                        The Bisection Method is a numerical root-finding algorithm that repeatedly narrows down an interval by halving it, identifying a root when the function changes sign within the interval. While simple and reliable, it's generally slower compared to more advanced methods.
 
 
 ## Usage

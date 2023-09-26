@@ -1,5 +1,5 @@
 # MathRootSearch
-Numerical Root Finding(Polynomial & Trancedental) Algorithms(C++) Repository
+Numerical Root Finding(Polynomial & Trancedental) Algorithms(C++/Python) Repository
 
 
 Welcome to the MathRootSearch repository, your go-to resource for efficient numerical root finding algorithms!
